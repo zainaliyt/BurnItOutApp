@@ -1,0 +1,83 @@
+[
+  {
+    "name": "After Eight",
+    "calories": "1 after eight (8g) has 36cal",
+    "cal": 36
+  },
+  {
+    "name": "Chocolate bar",
+    "calories": "1 bar (45g) has 240cal",
+    "cal": 240
+  },
+  {
+    "name": "Peanut Bar",
+    "calories": "1 bar (45g) has 240cal",
+    "cal": 240
+  },
+  {
+    "name": "Granola Bar",
+    "calories": "1 bar (21g) has 95cal",
+    "cal": 95
+  },
+  {
+    "name": "Mars Bar",
+    "calories": "1 bar (45g) has 202cal",
+    "cal": 202
+  },
+  {
+    "name": "Snickers",
+    "calories": "1 bar (50g) has 242cal",
+    "cal": 242
+  },
+  {
+    "name": "Twix",
+    "calories": "1 bar (25g) has 124cal",
+    "cal": 124
+  },
+  {
+    "name": "Toblerone",
+    "calories": "1 piece (9g) has 47cal",
+    "cal": 47
+  },
+  {
+    "name": "M&M's",
+    "calories": "20 pieces (14g) has 67cal",
+    "cal": 67
+  },
+  {
+    "name": "Trifle",
+    "calories": "1 half trifle (250g) has 465cal",
+    "cal": 465
+  },
+  {
+    "name": "Skittles",
+    "calories": "20 pieces (22g) has 89cal",
+    "cal": 89
+  },
+  {
+    "name": "Smarties",
+    "calories": "1 roll (7g) has 25cal",
+    "cal": 25
+  },
+  {
+    "name": "Milky Way",
+    "calories": "1 bar (22g) has 99cal",
+    "cal": 99
+  },
+  {
+    "name": "Cotton Candy",
+    "calories": "1 half bag (12g) has 90cal",
+    "cal": 90
+  },
+  {
+    "name": "Kit Kat",
+    "calories": "1 bar (45g) has 234cal",
+    "cal": 234
+  },
+  {
+    "name": "Pez",
+    "calories": "1 roll (8g) has 34cal",
+    "cal": 34
+  }
+
+]

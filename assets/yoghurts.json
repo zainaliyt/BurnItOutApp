@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ayran",
+    "calories": "1 cup (200ml) has 84cal",
+    "cal": 84
+  },
+  {
+    "name": "Plain Yogurt",
+    "calories": "1 container (227g) has 138cal",
+    "cal": 138
+  },
+  {
+    "name": "Chocolate Yogurt",
+    "calories": "1 container (227g) has 291cal",
+    "cal": 291
+  },
+  {
+    "name": "Diet Yogurt",
+    "calories": "1 container (227g) has 132cal",
+    "cal": 132
+  },
+  {
+    "name": "Vanilla Yogurt",
+    "calories": "1 container (227g) has 229cal",
+    "cal": 229
+  },
+  {
+    "name": "Fruit Yogurt",
+    "calories": "1 container (227g) has 220cal",
+    "cal": 220
+  },
+  {
+    "name": "Peach Yogurt",
+    "calories": "1 container (113g) has 110cal",
+    "cal": 110
+  },
+  {
+    "name": "Strawberry Yogurt",
+    "calories": "1 container (227g) has 227cal",
+    "cal": 227
+  },
+  {
+    "name": "Activia",
+    "calories": "1 container (113g) has 113cal",
+    "cal": 113
+  },
+  {
+    "name": "Activia Lemon",
+    "calories": "1 container (113g) has 113cal",
+    "cal": 113
+  },
+  {
+    "name": "Activia Strawberry",
+    "calories": "1 container (113g) has 110cal",
+    "cal": 110
+  },
+  {
+    "name": "Greek Yogurt",
+    "calories": "1 container (150g) has 80cal",
+    "cal": 80
+  },
+  {
+    "name": "Organic Yogurt",
+    "calories": "1 container (227g) has 170cal",
+    "cal": 170
+  },
+  {
+    "name": "Low-Fat Yogurt",
+    "calories": "1 container (227g) has 143cal",
+    "cal": 143
+  },
+  {
+    "name": "Creamy Yogurt",
+    "calories": "1 container (227g) has 204cal",
+    "cal": 204
+  },
+  {
+    "name": "Blueberry Yogurt",
+    "calories": "1 container (227g) has 238cal",
+    "cal": 238
+  },
+  {
+    "name": "Cherry Yogurt",
+    "calories": "1 container (227g) has 220cal",
+    "cal": 220
+  }
+]

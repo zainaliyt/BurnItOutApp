@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Original donut",
+    "calories": "1 full donut (60g) has 250cal",
+    "cal": 250
+  },
+  {
+    "name": "Glaze donut",
+    "calories": "1 full donut (64g) has 270cal",
+    "cal": 270
+  },
+  {
+    "name": "Chocolate donut",
+    "calories": "1 full donut (80g) has 330cal",
+    "cal": 330
+  },
+  {
+    "name": "Cream filled donut",
+    "calories": "1 full donut (95g) has 340cal",
+    "cal": 340
+  },
+  {
+    "name": "Sour Cream donut",
+    "calories": "1 full donut (71g) has 310cal",
+    "cal": 310
+  },
+  {
+    "name": "Frosted Choco donut",
+    "calories": "1 full donut (67g) has 280cal",
+    "cal": 280
+  },
+  {
+    "name": "Krispy Kreme donut",
+    "calories": "1 full donut (42g) has 180cal",
+    "cal": 180
+  }
+
+
+]

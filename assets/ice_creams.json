@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Solero",
+    "calories": "1 solero (75g) has 75cal",
+    "cal": 75
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "calories": "1 scoop (72g) has 170cal",
+    "cal": 170
+  },
+  {
+    "name": "Magnum Gold",
+    "calories": "1 magnum (85g) has 290cal",
+    "cal": 290
+  },
+  {
+    "name": "Magnum White",
+    "calories": "1 magnum (86g) has 255cal",
+    "cal": 255
+  },
+  {
+    "name": "Magnum Almond",
+    "calories": "1 magnum (86g) has 271cal",
+    "cal": 271
+  },
+  {
+    "name": "Ben and Jerry's",
+    "calories": "1 scoop (92g) has 210cal",
+    "cal": 210
+  },
+  {
+    "name": "Vanilla Cone",
+    "calories": "1 cone (142g) has 230cal",
+    "cal": 230
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "calories": "1 scoop (72g) has 145cal",
+    "cal": 145
+  },
+  {
+    "name": "Snickers Ice Cream",
+    "calories": "1 bar (50g) has 180cal",
+    "cal": 180
+  }
+]

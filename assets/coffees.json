@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dalgona Coffee",
+    "calories": "1 cup has 197cal",
+    "cal": 197
+  },
+  {
+    "name": "Latte",
+    "calories": "1 cup (426g) has 168cal",
+    "cal": 168
+  },
+  {
+    "name": "Cappuccino",
+    "calories": "1 cup (237g) has 73cal",
+    "cal": 73
+  },
+  {
+    "name": "Caramel Macchiato",
+    "calories": "1 cup (453g) has 8cal",
+    "cal": 8
+  },
+  {
+    "name": "Espresso",
+    "calories": "1 cup (100g) has 9cal",
+    "cal": 9
+  },
+  {
+    "name": "Mocha",
+    "calories": "1 cup (453g) has 187cal",
+    "cal": 187
+  },
+  {
+    "name": "Americano",
+    "calories": "1 cup (474g) has 9cal",
+    "cal": 9
+  }
+]

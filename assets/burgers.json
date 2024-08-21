@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hamburger",
+    "calories": "Full hamburger has 250cal",
+    "cal": 250
+  },
+  {
+    "name": "Cheeseburger",
+    "calories": "Full Cheeseburger has 300cal",
+    "cal": 300
+  },
+  {
+    "name": "Chicken burger",
+    "calories": "Full Chicken burger has 540cal",
+    "cal": 540
+  },
+  {
+    "name": "McDouble",
+    "calories": "Full McDouble burger has 380cal",
+    "cal": 380
+  },
+  {
+    "name": "Turkey burger",
+    "calories": "Full Turkey burger has 550cal",
+    "cal": 550
+  },
+  {
+    "name": "Big Mac",
+    "calories": "Full Big Mac has 540cal",
+    "cal": 540
+  },
+  {
+    "name": "Whopper Sandwich",
+    "calories": "Full Whopper Sandwich has 660cal",
+    "cal": 660
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Coca Cola",
+    "calories": "1 can (330ml) has 139cal",
+    "cal": 139
+  },
+  {
+    "name": "Sprite",
+    "calories": "1 can (355ml) has 131cal",
+    "cal": 131
+  },
+  {
+    "name": "Pepsi",
+    "calories": "1 can (355ml) has 156cal",
+    "cal": 156
+  },
+  {
+    "name": "7up",
+    "calories": "1 can (330ml) has 156cal",
+    "cal": 156
+  },
+  {
+    "name": "Fanta",
+    "calories": "1 can (330ml) has 138cal",
+    "cal": 138
+  },
+  {
+    "name": "Dr. Pepper",
+    "calories": "1 can (355ml) has 96cal",
+    "cal": 96
+  },
+  {
+    "name": "Cherry Coke",
+    "calories": "1 can (355ml) has 156cal",
+    "cal": 156
+  },
+  {
+    "name": "Gatorade",
+    "calories": "1 can (355ml) has 89cal",
+    "cal": 89
+  },
+  {
+    "name": "Lemonade",
+    "calories": "1 can (355ml) has 149cal",
+    "cal": 149
+  },
+  {
+    "name": "Orange Soda",
+    "calories": "1 can (355ml) has 170cal",
+    "cal": 170
+  },
+  {
+    "name": "Powerade",
+    "calories": "1 bottle (500ml) has 600cal",
+    "cal": 600
+  }
+]

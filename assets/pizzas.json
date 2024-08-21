@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Margherita",
+    "calories": "1 slice (63g) has 173cal",
+    "cal": 173
+  },
+  {
+    "name": "Hawaiian",
+    "calories": "1 slice (134g) has 154cal",
+    "cal": 154
+  },
+  {
+    "name": "Chicken",
+    "calories": "1 slice (132g) has 309cal",
+    "cal": 309
+  },
+  {
+    "name": "Pepperoni",
+    "calories": "1 slice (71g) has 181cal",
+    "cal": 181
+  },
+  {
+    "name": "Tuna",
+    "calories": "1 slice (125g) has 318cal",
+    "cal": 318
+  },
+  {
+    "name": "Vegetarian",
+    "calories": "1 slice (156g) has 399cal",
+    "cal": 399
+  },
+  {
+    "name": "Bianca",
+    "calories": "1 slice (187g) has 460cal",
+    "cal": 460
+  },
+  {
+    "name": "Beef",
+    "calories": "1 slice (235g) has 714cal",
+    "cal": 714
+  },
+  {
+    "name": "Calzone",
+    "calories": "1 full calzone (364g) has 841cal",
+    "cal": 841
+  },
+  {
+    "name": "Four Cheese",
+    "calories": "1 slice (113g) has 250cal",
+    "cal": 250
+  },
+  {
+    "name": "Napoli",
+    "calories": "1 slice (123g) has 248cal",
+    "cal": 248
+  },
+  {
+    "name": "White",
+    "calories": "1 slice (232g) has 571cal",
+    "cal": 571
+  }
+
+
+]

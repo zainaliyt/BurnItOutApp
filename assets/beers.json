@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Corona",
+    "calories": "1 bottle (354ml) has 149cal",
+    "cal": 149
+  },
+  {
+    "name": "Bud Light",
+    "calories": "1 bottle (354ml) has 103cal",
+    "cal": 103
+  },
+  {
+    "name": "Colt 45",
+    "calories": "1 bottle (354ml) has 156cal",
+    "cal": 156
+  },
+  {
+    "name": "Heineken",
+    "calories": "1 bottle (354ml) has 124cal",
+    "cal": 124
+  },
+  {
+    "name": "Ginger Beer",
+    "calories": "1 bottle (354ml) has 149cal",
+    "cal": 149
+  },
+  {
+    "name": "Koelsch",
+    "calories": "1 bottle (354ml) has 152cal",
+    "cal": 152
+  },
+  {
+    "name": "Newcastle",
+    "calories": "1 bottle (354ml) has 138cal",
+    "cal": 138
+  },
+  {
+    "name": "Pilsner",
+    "calories": "1 bottle (354ml) has 152cal",
+    "cal": 152
+  }
+]

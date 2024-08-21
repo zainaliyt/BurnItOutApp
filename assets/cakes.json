@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Carrot cake",
+    "calories": "1 piece (133g) has 543cal",
+    "cal": 543
+  },
+  {
+    "name": "Chocolate cake",
+    "calories": "1 piece (138g) has 537cal",
+    "cal": 537
+  },
+  {
+    "name": "Cheesecake",
+    "calories": "1 piece (80g) has 257cal",
+    "cal": 257
+  },
+  {
+    "name": "Cupcake",
+    "calories": "1 cupcake (43g) has 131cal",
+    "cal": 131
+  },
+  {
+    "name": "Carrot cake",
+    "calories": "1 piece (133g) has 543cal",
+    "cal": 543
+  },
+  {
+    "name": "Fruit cake",
+    "calories": "1 piece (43g) has 139cal",
+    "cal": 139
+  },
+  {
+    "name": "Black forest cake",
+    "calories": "1 piece (107g) has 282cal",
+    "cal": 252
+  },
+  {
+    "name": "Panettone",
+    "calories": "1 clice (50g) has 180cal",
+    "cal": 180
+  },
+  {
+    "name": "Raspberry pie",
+    "calories": "1 piece (137g) has 329cal",
+    "cal": 329
+  },
+  {
+    "name": "Tiramisu",
+    "calories": "1 serving (174g) has 492cal",
+    "cal": 492
+  },
+  {
+    "name": "Birthday cake",
+    "calories": "1 piece (85g) has 395cal",
+    "cal": 395
+  },
+  {
+    "name": "Apple cake",
+    "calories": "1 serving (100g) has 252cal",
+    "cal": 252
+  }
+]

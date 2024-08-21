@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Apple",
+    "calories": "1 apple (182g) has 95cal",
+    "cal": 95
+  },
+  {
+    "name": "Banana",
+    "calories": "1 banana (125g) has 111cal",
+    "cal": 111
+  },
+  {
+    "name": "Pear",
+    "calories": "1 pear (178g) has 101cal",
+    "cal": 101
+  },
+  {
+    "name": "Clementine",
+    "calories": "1 clementine (74g) has 35cal",
+    "cal": 35
+  },
+  {
+    "name": "Peach",
+    "calories": "1 peach (150g) has 59cal",
+    "cal": 59
+  },
+  {
+    "name": "Pomegranate",
+    "calories": "1 pomegranate (282g) has 234cal",
+    "cal": 234
+  },
+  {
+    "name": "Apricot",
+    "calories": "1 apricot (35g) has 17cal",
+    "cal": 17
+  },
+  {
+    "name": "Kiwi",
+    "calories": "1 kiwi (183g) has 112cal",
+    "cal": 112
+  },
+  {
+    "name": "Mango",
+    "calories": "1 mango (336g) has 202cal",
+    "cal": 202
+  },
+  {
+    "name": "Pineapple",
+    "calories": "1 pineapple (905g) has 453cal",
+    "cal": 453
+  },
+  {
+    "name": "Watermelon",
+    "calories": "1 wedge (286g) has 86cal",
+    "cal": 86
+  },
+  {
+    "name": "Starfruit",
+    "calories": "1 star fruit (91g) has 28cal",
+    "cal": 28
+  },
+  {
+    "name": "Tamarind",
+    "calories": "1 tamarind (2g) has 5cal",
+    "cal": 5
+  },
+  {
+    "name": "Papaya",
+    "calories": "1 papaya (500g) has 215cal",
+    "cal": 215
+  },
+  {
+    "name": "Passion Fruit",
+    "calories": "1 passion fruit (18g) has 17cal",
+    "cal": 17
+  },
+  {
+    "name": "Avocado",
+    "calories": "1 avocado (200g) has 320cal",
+    "cal": 320
+  },
+  {
+    "name": "Blueberries",
+    "calories": "1 cup (148g) has 84cal",
+    "cal": 84
+  },
+  {
+    "name": "Date",
+    "calories": "1 date (7g) has 20cal",
+    "cal": 20
+  },
+  {
+    "name": "Guava",
+    "calories": "1 guava (55g) has 37cal",
+    "cal": 37
+  }
+]

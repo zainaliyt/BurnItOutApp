@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Arugula",
+    "calories": "1 leaf (2g) has 1cal",
+    "cal": 1
+  },
+  {
+    "name": "Aubergine",
+    "calories": "1 aubergine (458g) has 115cal",
+    "cal": 115
+  },
+  {
+    "name": "Broccoli",
+    "calories": "1 bunch (608g) has 207cal",
+    "cal": 207
+  },
+  {
+    "name": "Carrot",
+    "calories": "1 carrot (61g) has 25cal",
+    "cal": 25
+  },
+  {
+    "name": "Cucumber",
+    "calories": "1 cucumber (410g) has 66cal",
+    "cal": 66
+  },
+  {
+    "name": "Lettuce",
+    "calories": "1 head (600g) has 90cal",
+    "cal": 90
+  },
+  {
+    "name": "Cherry Tomato",
+    "calories": "1 cherry tomato (20g) has 20cal",
+    "cal": 20
+  },
+  {
+    "name": "Cauliflower",
+    "calories": "1 floweret (13g) has 3cal",
+    "cal": 3
+  },
+  {
+    "name": "Mushrooms",
+    "calories": "1 mushroom (6g) has 1cal",
+    "cal": 1
+  },
+  {
+    "name": "Okra",
+    "calories": "1 pod (12g) has 4cal",
+    "cal": 4
+  },
+  {
+    "name": "Onion",
+    "calories": "1 onion (85g) has 34cal",
+    "cal": 34
+  },
+  {
+    "name": "Spinach",
+    "calories": "1 bunch (340g) has 78cal",
+    "cal": 78
+  },
+  {
+    "name": "Sweet Potato",
+    "calories": "1 potato (130g) has 112cal",
+    "cal": 112
+  },
+  {
+    "name": "Tomato",
+    "calories": "1 tomato (111g) has 20cal",
+    "cal": 20
+  },
+  {
+    "name": "Zucchini",
+    "calories": "1 zucchinni (196g) has 33cal",
+    "cal": 33
+  },
+  {
+    "name": "Wasabi",
+    "calories": "1 root (169g) has 184cal",
+    "cal": 184
+  },
+  {
+    "name": "Eggplant",
+    "calories": "1 eggplant (458g) has 115cal",
+    "cal": 115
+  },
+  {
+    "name": "Kumara",
+    "calories": "1 kumara (130g) has 112cal",
+    "cal": 112
+  }
+]
